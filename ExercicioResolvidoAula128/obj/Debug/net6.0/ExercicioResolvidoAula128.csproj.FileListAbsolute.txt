@@ -1,0 +1,15 @@
+C:\CsharpDotNet\Udemy\ExercicioResolvidoAula128\ExercicioResolvidoAula128\obj\Debug\net6.0\ExercicioResolvidoAula128.csproj.AssemblyReference.cache
+C:\CsharpDotNet\Udemy\ExercicioResolvidoAula128\ExercicioResolvidoAula128\obj\Debug\net6.0\ExercicioResolvidoAula128.GeneratedMSBuildEditorConfig.editorconfig
+C:\CsharpDotNet\Udemy\ExercicioResolvidoAula128\ExercicioResolvidoAula128\obj\Debug\net6.0\ExercicioResolvidoAula128.AssemblyInfoInputs.cache
+C:\CsharpDotNet\Udemy\ExercicioResolvidoAula128\ExercicioResolvidoAula128\obj\Debug\net6.0\ExercicioResolvidoAula128.AssemblyInfo.cs
+C:\CsharpDotNet\Udemy\ExercicioResolvidoAula128\ExercicioResolvidoAula128\obj\Debug\net6.0\ExercicioResolvidoAula128.csproj.CoreCompileInputs.cache
+C:\CsharpDotNet\Udemy\ExercicioResolvidoAula128\ExercicioResolvidoAula128\bin\Debug\net6.0\ExercicioResolvidoAula128.exe
+C:\CsharpDotNet\Udemy\ExercicioResolvidoAula128\ExercicioResolvidoAula128\bin\Debug\net6.0\ExercicioResolvidoAula128.deps.json
+C:\CsharpDotNet\Udemy\ExercicioResolvidoAula128\ExercicioResolvidoAula128\bin\Debug\net6.0\ExercicioResolvidoAula128.runtimeconfig.json
+C:\CsharpDotNet\Udemy\ExercicioResolvidoAula128\ExercicioResolvidoAula128\bin\Debug\net6.0\ExercicioResolvidoAula128.dll
+C:\CsharpDotNet\Udemy\ExercicioResolvidoAula128\ExercicioResolvidoAula128\bin\Debug\net6.0\ExercicioResolvidoAula128.pdb
+C:\CsharpDotNet\Udemy\ExercicioResolvidoAula128\ExercicioResolvidoAula128\obj\Debug\net6.0\ExercicioResolvidoAula128.dll
+C:\CsharpDotNet\Udemy\ExercicioResolvidoAula128\ExercicioResolvidoAula128\obj\Debug\net6.0\refint\ExercicioResolvidoAula128.dll
+C:\CsharpDotNet\Udemy\ExercicioResolvidoAula128\ExercicioResolvidoAula128\obj\Debug\net6.0\ExercicioResolvidoAula128.pdb
+C:\CsharpDotNet\Udemy\ExercicioResolvidoAula128\ExercicioResolvidoAula128\obj\Debug\net6.0\ExercicioResolvidoAula128.genruntimeconfig.cache
+C:\CsharpDotNet\Udemy\ExercicioResolvidoAula128\ExercicioResolvidoAula128\obj\Debug\net6.0\ref\ExercicioResolvidoAula128.dll
